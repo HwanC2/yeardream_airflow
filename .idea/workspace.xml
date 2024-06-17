@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe03dc4a-f6f2-48d2-85a3-2cb0c3ccdfde" name="Changes" comment="" />
+    <list default="true" id="4f0bf7dd-adc7-4b19-9224-95ae7af44b79" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,15 +17,11 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="SYNC" />
-  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="2hrMNKuPxCKIgpwW3H2LMJKWzUf" />
+  <component name="ProjectId" id="2huEa4TBM2Xod0dAb5i5GUTu2b1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +29,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/hyeokhwan/airflow",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,12 +49,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fe03dc4a-f6f2-48d2-85a3-2cb0c3ccdfde" name="Changes" comment="" />
-      <created>1718347702273</created>
+      <changelist id="4f0bf7dd-adc7-4b19-9224-95ae7af44b79" name="Changes" comment="" />
+      <created>1718435621297</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1718347702273</updated>
-      <workItem from="1718347703668" duration="9927000" />
+      <updated>1718435621297</updated>
+      <workItem from="1718435622345" duration="5568000" />
     </task>
     <servers />
   </component>
